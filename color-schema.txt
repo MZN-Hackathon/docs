@@ -1,0 +1,7 @@
+#00f0ff primary  electric cyan     for key actions/highlights/buttons
+
+#9b70ff secondar  deep indigo      AI/Gradient/Depth/glow
+
+#0f172a background deep space      app background/ cards 
+
+#4ade80  accent    Neon Green      Success States, Level Up
